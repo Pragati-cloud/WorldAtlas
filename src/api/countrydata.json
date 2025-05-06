@@ -1,1 +1,102 @@
-
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1.42 billion",
+    "area": "3.287 million km²",
+    "gdp": "3.73 trillion USD",
+    "geopolitical": "A rising economic power with a strong IT and software industry.",
+    "interestingFact": "India is the world's largest democracy and is known for its diverse culture."
+  },
+  {
+    "id": 2,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": "331 million",
+    "area": "9.834 million km²",
+    "gdp": "27.43 trillion USD",
+    "geopolitical": "A major global power with significant influence in economics, politics, and military.",
+    "interestingFact": "The U.S. has the world's largest economy by nominal GDP."
+  },
+  {
+    "id": 3,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "1.4 billion",
+    "area": "9.597 million km²",
+    "gdp": "18.53 trillion USD",
+    "geopolitical": "A dominant force in global trade and manufacturing.",
+    "interestingFact": "China is home to the Great Wall, the longest structure ever built by humans."
+  },
+  {
+    "id": 4,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": "146 million",
+    "area": "17.1 million km²",
+    "gdp": "2.24 trillion USD",
+    "geopolitical": "A major global player in energy supply and geopolitics.",
+    "interestingFact": "Russia is the largest country in the world by land area."
+  },
+  {
+    "id": 5,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "area": "377,975 km²",
+    "gdp": "4.3 trillion USD",
+    "geopolitical": "A technological powerhouse known for innovation and precision manufacturing.",
+    "interestingFact": "Japan has the world's highest life expectancy."
+  },
+  {
+    "id": 6,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": "83 million",
+    "area": "357,022 km²",
+    "gdp": "4.5 trillion USD",
+    "geopolitical": "The largest economy in Europe and a key EU leader.",
+    "interestingFact": "Germany is known as the birthplace of modern automobiles."
+  },
+  {
+    "id": 7,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "213 million",
+    "area": "8.516 million km²",
+    "gdp": "2.08 trillion USD",
+    "geopolitical": "The largest country in South America and a major agricultural exporter.",
+    "interestingFact": "Brazil is home to the Amazon rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 8,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": "67 million",
+    "area": "243,610 km²",
+    "gdp": "3.33 trillion USD",
+    "geopolitical": "A historical colonial power with strong financial and cultural influence.",
+    "interestingFact": "The UK is home to the world's oldest underground railway, the London Underground."
+  },
+  {
+    "id": 9,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": "65 million",
+    "area": "551,695 km²",
+    "gdp": "3.01 trillion USD",
+    "geopolitical": "A major EU player with strong cultural and diplomatic influence.",
+    "interestingFact": "France is the most visited country in the world."
+  },
+  {
+    "id": 10,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "area": "7.692 million km²",
+    "gdp": "1.69 trillion USD",
+    "geopolitical": "A key player in the Asia-Pacific region with vast natural resources.",
+    "interestingFact": "Australia is home to the Great Barrier Reef, the world's largest coral reef system."
+  }
+]

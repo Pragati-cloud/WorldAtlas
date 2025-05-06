@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find Us",
+    "details": "Pune, Maharashtra"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call Us",
+    "details": "8463284249"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail Us",
+    "details": "pragati@gmail.com"
+  }
+]
